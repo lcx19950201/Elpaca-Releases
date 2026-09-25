@@ -1,6 +1,7 @@
 # Elpaca
 
-> 原神国服、GenshinImpact国际服辅助工具
+> 原神国服外挂、原神国服辅助
+> GenshenImpact CN cheat
 
 已更新至国服 7.1 版本，已移除会被封号的功能，稳定大号。
 
