@@ -1,4 +1,4 @@
-# Elpaca
+# Elpaca-Releases
 
 > 原神国服外挂、原神国服辅助
 > GenshenImpact CN cheat
